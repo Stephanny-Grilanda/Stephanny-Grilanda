@@ -16,19 +16,17 @@
 
 
 <h2>O que estou estudando?</h2>
-<div class="technologies-icons">
-    <a href="#" target="   blank">
+<div class="icones">
+    <a href="#" target="__blank" border:none>
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" alt="Html" width="50" height="50">
     </a>
-    <a href="#" target="   blank">
+    <a href="#" target="__blank" border:none>
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" alt="Java" width="50" height="50">
     </a>
-    <a href="#" target="   blank">
+    <a href="#" target="__blank" border:none>
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" width="50" height="50">
     </a>
 </div>
-
-
 
 
 <!---
